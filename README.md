@@ -1,28 +1,39 @@
-🚀 Engineer. Builder. Problem Solver.
+## 🚀 Engineer • Builder • Problem Solver
 
-I create fast, scalable, production-ready applications — from polished frontends to resilient backend systems.
+I build fast, scalable, and maintainable applications — from polished UIs to resilient backend systems.
 
-🛠️ Tech I Work With
+### 🛠️ Tech I Work With
 
-Frontend:
-⚛️ React • 🟦 TypeScript • 🟨 JavaScript • 🎨 HTML • 🧩 CSS • 🟣 MUI
+**Frontend**  
+⚛️ React  
+🟦 TypeScript  
+🟨 JavaScript  
+🎨 HTML  
+🧩 CSS  
+🟣 MUI  
 
-Backend & Systems:
-🔷 C# • 🧱 .NET • ☁️ AWS • 🏗️ IaC
+**Backend & Cloud**  
+🔷 C#  
+🧱 .NET  
+🐍 Python  
+☁️ AWS  
+🏗️ Infrastructure as Code (IaC)
 
-Testing:
-🧪 Jest • 🔍 Vitest • 🎭 Playwright
+**Databases**  
+🍃 MongoDB  
+🐘 PostgreSQL  
 
-📚 Currently Learning
+**Testing**  
+🧪 Jest  
+🔍 Vitest  
+🎭 Playwright  
 
-🔗 Web3 • 🤖 AI (real-world engineering use, not hype)
+### 📚 Currently Learning  
+🔗 Web3  
+🤖 AI
 
-🎯 What I Care About
-
-Clean architecture
-
-Maintainable code
-
-Strong test coverage
-
-Systems that scale without crying
+### 🎯 What I Care About  
+- Clean architecture  
+- Testable, maintainable code  
+- Pragmatic engineering  
+- Systems that scale without chaos
