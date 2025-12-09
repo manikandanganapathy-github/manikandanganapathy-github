@@ -1,16 +1,28 @@
-## Hi there 👋
+🚀 Engineer. Builder. Problem Solver.
 
-<!--
-**manikandanganapathy-github/manikandanganapathy-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create fast, scalable, production-ready applications — from polished frontends to resilient backend systems.
 
-Here are some ideas to get you started:
+🛠️ Tech I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend:
+⚛️ React • 🟦 TypeScript • 🟨 JavaScript • 🎨 HTML • 🧩 CSS • 🟣 MUI
+
+Backend & Systems:
+🔷 C# • 🧱 .NET • ☁️ AWS • 🏗️ IaC
+
+Testing:
+🧪 Jest • 🔍 Vitest • 🎭 Playwright
+
+📚 Currently Learning
+
+🔗 Web3 • 🤖 AI (real-world engineering use, not hype)
+
+🎯 What I Care About
+
+Clean architecture
+
+Maintainable code
+
+Strong test coverage
+
+Systems that scale without crying
